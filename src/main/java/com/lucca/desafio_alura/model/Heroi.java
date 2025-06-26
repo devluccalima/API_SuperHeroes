@@ -10,8 +10,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Column;
 
 @Entity
-@Table(name = "super_herois")
-@Data
+@Table(name="superherois")
 public class Heroi {
 
     @Id
@@ -88,6 +87,5 @@ public class Heroi {
     public void setUniverso(String universo) {
         this.universo = universo;
     }
-
 }
 
