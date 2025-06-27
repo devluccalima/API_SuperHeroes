@@ -10,7 +10,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Column;
 
 @Entity
-@Table(name="superherois")
+@Table(name="personagens")
 public class Heroi {
 
     @Id
@@ -23,14 +23,11 @@ public class Heroi {
     @Column(nullable = false)
     private String poderes;
 
-    private String origem;
-
-    private String urlAvatar;
+    private String imagem;
 
     @Column(nullable = false)
     private String identidadeSecreta;
 
-    private String universo;
 
     public Long getId() {
         return id;
@@ -56,20 +53,13 @@ public class Heroi {
         this.poderes = poderes;
     }
 
-    public String getOrigem() {
-        return origem;
+
+    public String getImagem() {
+        return imagem;
     }
 
-    public void setOrigem(String origem) {
-        this.origem = origem;
-    }
-
-    public String getUrlAvatar() {
-        return urlAvatar;
-    }
-
-    public void setUrlAvatar(String urlAvatar) {
-        this.urlAvatar = urlAvatar;
+    public void setImagem(String imagem) {
+        this.imagem = imagem;
     }
 
     public String getIdentidadeSecreta() {
@@ -80,12 +70,5 @@ public class Heroi {
         this.identidadeSecreta = identidadeSecreta;
     }
 
-    public String getUniverso() {
-        return universo;
-    }
-
-    public void setUniverso(String universo) {
-        this.universo = universo;
-    }
 }
 
