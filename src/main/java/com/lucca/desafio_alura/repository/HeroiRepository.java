@@ -11,4 +11,6 @@ import java.util.Optional;
 public interface HeroiRepository extends JpaRepository<Heroi, Long> {
 
         List<Heroi> findByNomeContainingIgnoreCase(String nome);
+        List<Heroi> findByIdentidadeSecretaContainingIgnoreCase(String identidadeSecreta);
+        List<Heroi> findByPoderesContainingIgnoreCase(String poder);
 }

@@ -20,23 +20,20 @@ public class HeroisController {
     @Autowired
     private HeroiRepository repository;
 
+    //Retornar todos os personagens
     @GetMapping("/personagens")
     public List<Heroi> listarTodos() {
         return repository.findAll();
     }
 
+    //Adicionar entidade
     @PostMapping("/personagens")
     public ResponseEntity<Heroi> adicionarPersonagem(@RequestBody Heroi heroi) {
         Heroi salvo = repository.save(heroi);
         return ResponseEntity.status(HttpStatus.CREATED).body(salvo);
     }
 
-    @PostMapping("/lote")
-    public ResponseEntity<List<Heroi>> adicionarLista(@Valid @RequestBody List<Heroi> herois) {
-        List<Heroi> salvos = repository.saveAll(herois);
-        return ResponseEntity.status(HttpStatus.CREATED).body(salvos);
-    }
-
+    //Buscar entidade por ID
     @GetMapping("/{id}")
     public ResponseEntity<Heroi> buscarPorId(@PathVariable Long id) {
         Optional<Heroi> heroi = repository.findById(id);
@@ -44,8 +41,8 @@ public class HeroisController {
                 .orElseGet(() -> ResponseEntity.notFound().build());
     }
 
-    //Buscar personagem por nome
-    @GetMapping("/nome/{nome}")
+    //Buscar entidade por nome
+    @GetMapping("/personagens/nome/{nome}")
     public ResponseEntity<List<Heroi>> buscarPorNome(@PathVariable String nome) {
         List<Heroi> personagens = repository.findByNomeContainingIgnoreCase(nome);
         if (personagens.isEmpty()) {
@@ -54,39 +51,57 @@ public class HeroisController {
         return ResponseEntity.ok(personagens);
     }
 
-    //Inserir Personagen por ID
-    @PutMapping("/{id}")
+    //Retornar uma entidade pela identidadeSecreta
+    @GetMapping("/personagens/identidade/{identidadeSecreta}")
+    public ResponseEntity<List<Heroi>> buscarPorIdentidadeSecreta(@PathVariable String identidadeSecreta) {
+        List<Heroi> personagens = repository.findByIdentidadeSecretaContainingIgnoreCase(identidadeSecreta);
+        if (personagens.isEmpty()) {
+            ResponseEntity.notFound().build();
+        }
+        return ResponseEntity.ok(personagens);
+    }
+
+    @GetMapping("/personagens/poderes/{poder}")
+    public ResponseEntity<List<Heroi>> buscarPorPoderes(@PathVariable String poder) {
+        List<Heroi> entidade = repository.findByPoderesContainingIgnoreCase(poder);
+        if (entidade.isEmpty()) {
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
+        }
+
+        return ResponseEntity.ok(entidade);
+    }
+
+    //Adicionar entidades em lista
+    @PostMapping("/personagens/novo")
+    public ResponseEntity<List<Heroi>> adicionarLista(@Valid @RequestBody List<Heroi> herois) {
+        List<Heroi> salvos = repository.saveAll(herois);
+        return ResponseEntity.status(HttpStatus.CREATED).body(salvos);
+    }
+
+    //Modificar uma entidade
+    @PutMapping("personagens/{id}")
     public ResponseEntity<Heroi> novoHeroi(@PathVariable Long id, @RequestBody Heroi superheroDetails) {
         Optional<Heroi> superhero = repository.findById(id);
         if (superhero.isPresent()) {
             Heroi updatedSuperhero = superhero.get();
             updatedSuperhero.setNome(superheroDetails.getNome());
             updatedSuperhero.setPoderes(superheroDetails.getPoderes());
+            updatedSuperhero.setImagem(superheroDetails.getImagem());
             return ResponseEntity.ok(repository.save(updatedSuperhero));
         } else {
             return ResponseEntity.notFound().build();
         }
     }
 
-    //Correção para alterar objeto
-    @PutMapping
-    public ResponseEntity<?> alterarPersonagem(@RequestBody Heroi superheroi) {
-        if (superheroi.getId() != null && repository.existsById(superheroi.getId())) {
-            Heroi atualizado = repository.save(superheroi);
-            return ResponseEntity.ok(atualizado);
+    //Deletar uma entidade
+    @DeleteMapping("/personagens/{id}")
+    public ResponseEntity<?> deletar(@PathVariable Long id) {
+        if (!repository.existsById(id)) {
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Entidade não encontrada");
+        } else {
+            repository.deleteById(id);
+            return ResponseEntity.ok("Heroi deletado com sucesso");
         }
-        return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Personagem não encontrado");
     }
-
-
-    @DeleteMapping
-    public ResponseEntity<?> deletar(@RequestBody Heroi superheroi) {
-        if (superheroi.getId() != null && repository.existsById(superheroi.getId())) {
-            repository.delete(superheroi);
-            return ResponseEntity.ok("Removido com sucesso");
-        }
-        return ResponseEntity.status(HttpStatus.NOT_FOUND).body("Personagem não encontrado");
-    }
-
 }
 
