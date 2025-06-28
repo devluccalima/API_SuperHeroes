@@ -1,0 +1,3381 @@
+
+[
+  {
+    "nome": "A-Bomb",
+    "poderes": "Strength, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/1-a-bomb.jpg",
+    "identidadeSecreta": "Richard Milhouse Jones"
+  },
+  {
+    "nome": "Abe Sapien",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/2-abe-sapien.jpg",
+    "identidadeSecreta": "Abraham Sapien"
+  },
+  {
+    "nome": "Abin Sur",
+    "poderes": "Power, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/3-abin-sur.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Abomination",
+    "poderes": "Combat, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/4-abomination.jpg",
+    "identidadeSecreta": "Emil Blonsky"
+  },
+  {
+    "nome": "Abraxas",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/5-abraxas.jpg",
+    "identidadeSecreta": "Abraxas"
+  },
+  {
+    "nome": "Absorbing Man",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/6-absorbing-man.jpg",
+    "identidadeSecreta": "Carl Creel"
+  },
+  {
+    "nome": "Adam Monroe",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/7-adam-monroe.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Adam Strange",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/8-adam-strange.jpg",
+    "identidadeSecreta": "Adam Strange"
+  },
+  {
+    "nome": "Agent Bob",
+    "poderes": "Combat, Speed, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/10-agent-bob.jpg",
+    "identidadeSecreta": "Bob"
+  },
+  {
+    "nome": "Agent Zero",
+    "poderes": "Combat, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/11-agent-zero.jpg",
+    "identidadeSecreta": "Christoph Nord"
+  },
+  {
+    "nome": "Air-Walker",
+    "poderes": "Speed, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/12-air-walker.jpg",
+    "identidadeSecreta": "Gabriel Lan"
+  },
+  {
+    "nome": "Ajax",
+    "poderes": "Durability, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/13-ajax.jpg",
+    "identidadeSecreta": "Francis"
+  },
+  {
+    "nome": "Alan Scott",
+    "poderes": "Power, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/14-alan-scott.jpg",
+    "identidadeSecreta": "Alan Ladd Wellington Scott"
+  },
+  {
+    "nome": "Alex Mercer",
+    "poderes": "Power, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/15-alex-mercer.jpg",
+    "identidadeSecreta": "Alexander J. Mercer"
+  },
+  {
+    "nome": "Alfred Pennyworth",
+    "poderes": "Intelligence, Combat, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/17-alfred-pennyworth.jpg",
+    "identidadeSecreta": "Alfred Thaddeus Crane Pennyworth"
+  },
+  {
+    "nome": "Alien",
+    "poderes": "Durability, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/18-alien.jpg",
+    "identidadeSecreta": "Xenomorph"
+  },
+  {
+    "nome": "Amazo",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/20-amazo.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Angel",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/23-angel.jpg",
+    "identidadeSecreta": "Liam"
+  },
+  {
+    "nome": "Angel",
+    "poderes": "Durability, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/24-angel.jpg",
+    "identidadeSecreta": "Warren Kenneth Worthington III"
+  },
+  {
+    "nome": "Angel Dust",
+    "poderes": "Strength, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/25-angel-dust.jpg",
+    "identidadeSecreta": "Christina"
+  },
+  {
+    "nome": "Angel Salvadore",
+    "poderes": "Combat, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/26-angel-salvadore.jpg",
+    "identidadeSecreta": "Angel Salvadore Bohusk"
+  },
+  {
+    "nome": "Animal Man",
+    "poderes": "Durability, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/28-animal-man.jpg",
+    "identidadeSecreta": "Bernhard Baker"
+  },
+  {
+    "nome": "Annihilus",
+    "poderes": "Strength, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/29-annihilus.jpg",
+    "identidadeSecreta": "Annihilus"
+  },
+  {
+    "nome": "Ant-Man",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/30-ant-man.jpg",
+    "identidadeSecreta": "Hank Pym"
+  },
+  {
+    "nome": "Ant-Man II",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/31-ant-man-ii.jpg",
+    "identidadeSecreta": "Scott Lang"
+  },
+  {
+    "nome": "Anti-Monitor",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/32-anti-monitor.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Anti-Venom",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/34-anti-venom.jpg",
+    "identidadeSecreta": "Eddie Brock"
+  },
+  {
+    "nome": "Apocalypse",
+    "poderes": "Intelligence, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/35-apocalypse.jpg",
+    "identidadeSecreta": "En Sabah Nur"
+  },
+  {
+    "nome": "Aquababy",
+    "poderes": "Power, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/36-aquababy.jpg",
+    "identidadeSecreta": "Arthur Curry, Jr."
+  },
+  {
+    "nome": "Aqualad",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/37-aqualad.jpg",
+    "identidadeSecreta": "Garth"
+  },
+  {
+    "nome": "Aquaman",
+    "poderes": "Power, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/38-aquaman.jpg",
+    "identidadeSecreta": "Orin"
+  },
+  {
+    "nome": "Arachne",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/39-arachne.jpg",
+    "identidadeSecreta": "Julia Carpenter"
+  },
+  {
+    "nome": "Archangel",
+    "poderes": "Durability, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/40-archangel.jpg",
+    "identidadeSecreta": "Warren Kenneth Worthington III"
+  },
+  {
+    "nome": "Arclight",
+    "poderes": "Combat, Strength, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/41-arclight.jpg",
+    "identidadeSecreta": "Philippa Sontag"
+  },
+  {
+    "nome": "Ardina",
+    "poderes": "Strength, Speed, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/42-ardina.jpg",
+    "identidadeSecreta": "Ardina"
+  },
+  {
+    "nome": "Ares",
+    "poderes": "Combat, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/43-ares.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Ariel",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/44-ariel.jpg",
+    "identidadeSecreta": "Ariel"
+  },
+  {
+    "nome": "Armor",
+    "poderes": "Durability, Strength, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/45-armor.jpg",
+    "identidadeSecreta": "Hisako Ichiki"
+  },
+  {
+    "nome": "Atlas",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/48-atlas.jpg",
+    "identidadeSecreta": "Erik Josten"
+  },
+  {
+    "nome": "Atlas",
+    "poderes": "Strength, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/49-atlas.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Atom Girl",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/52-atom-girl.jpg",
+    "identidadeSecreta": "Salu Digby"
+  },
+  {
+    "nome": "Atom II",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/53-atom-ii.jpg",
+    "identidadeSecreta": "Ray Palmer"
+  },
+  {
+    "nome": "Aurora",
+    "poderes": "Speed, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/56-aurora.jpg",
+    "identidadeSecreta": "Jeanne-Marie Beaubier"
+  },
+  {
+    "nome": "Azazel",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/57-azazel.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Azrael",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/58-azrael.jpg",
+    "identidadeSecreta": "Michael Washington Lane"
+  },
+  {
+    "nome": "Bane",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/60-bane.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Banshee",
+    "poderes": "Combat, Power, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/61-banshee.jpg",
+    "identidadeSecreta": "Sean Cassidy"
+  },
+  {
+    "nome": "Bantam",
+    "poderes": "Combat, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/62-bantam.jpg",
+    "identidadeSecreta": "Roberto Velasquez"
+  },
+  {
+    "nome": "Batgirl",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/63-batgirl.jpg",
+    "identidadeSecreta": "Barbara Gordon"
+  },
+  {
+    "nome": "Batgirl IV",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/66-batgirl-iv.jpg",
+    "identidadeSecreta": "Cassandra Cain"
+  },
+  {
+    "nome": "Batgirl VI",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/68-batgirl-vi.jpg",
+    "identidadeSecreta": "Stephanie Brown"
+  },
+  {
+    "nome": "Future Batman",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/69-batman.jpg",
+    "identidadeSecreta": "Terry McGinnis"
+  },
+  {
+    "nome": "Batman",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/70-batman.jpg",
+    "identidadeSecreta": "Bruce Wayne"
+  },
+  {
+    "nome": "Batman II",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/71-batman-ii.jpg",
+    "identidadeSecreta": "Dick Grayson"
+  },
+  {
+    "nome": "Battlestar",
+    "poderes": "Durability, Combat, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/72-battlestar.jpg",
+    "identidadeSecreta": "Lemar Hoskins"
+  },
+  {
+    "nome": "Batwoman V",
+    "poderes": "Intelligence, Combat, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/73-batwoman-v.jpg",
+    "identidadeSecreta": "Katherine Rebecca Kane"
+  },
+  {
+    "nome": "Beast",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/75-beast.jpg",
+    "identidadeSecreta": "Henry Philip McCoy"
+  },
+  {
+    "nome": "Beast Boy",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/76-beast-boy.jpg",
+    "identidadeSecreta": "Garfield Mark Logan"
+  },
+  {
+    "nome": "Ben 10",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/78-ben-10.jpg",
+    "identidadeSecreta": "Benjamin Kirby Tennyson"
+  },
+  {
+    "nome": "Beta Ray Bill",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/79-beta-ray-bill.jpg",
+    "identidadeSecreta": "Beta Ray Bill (translation of his Korbinite name)"
+  },
+  {
+    "nome": "Beyonder",
+    "poderes": "Intelligence, Strength, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/80-beyonder.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Big Barda",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/81-big-barda.jpg",
+    "identidadeSecreta": "Barda Free"
+  },
+  {
+    "nome": "Big Daddy",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/82-big-daddy.jpg",
+    "identidadeSecreta": "Damon Macready"
+  },
+  {
+    "nome": "Big Man",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/83-big-man.jpg",
+    "identidadeSecreta": "Frederick Foswell"
+  },
+  {
+    "nome": "Bill Harken",
+    "poderes": "Intelligence, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/84-bill-harken.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Bionic Woman",
+    "poderes": "Intelligence, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/87-bionic-woman.jpg",
+    "identidadeSecreta": "Jamie Sommers"
+  },
+  {
+    "nome": "Bird-Brain",
+    "poderes": "Combat, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/88-bird-brain.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Bishop",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/92-bishop.jpg",
+    "identidadeSecreta": "Lucas Bishop"
+  },
+  {
+    "nome": "Bizarro",
+    "poderes": "Speed, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/93-bizarro.jpg",
+    "identidadeSecreta": "Bizarro"
+  },
+  {
+    "nome": "Black Adam",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/95-black-adam.jpg",
+    "identidadeSecreta": "Teth-Adam"
+  },
+  {
+    "nome": "Black Bolt",
+    "poderes": "Speed, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/96-black-bolt.jpg",
+    "identidadeSecreta": "Blackagar Boltagon"
+  },
+  {
+    "nome": "Black Canary",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/97-black-canary.jpg",
+    "identidadeSecreta": "Laurel Lance"
+  },
+  {
+    "nome": "Black Canary",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/98-black-canary.jpg",
+    "identidadeSecreta": "Dinah Drake Lance"
+  },
+  {
+    "nome": "Black Cat",
+    "poderes": "Intelligence, Combat, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/99-black-cat.jpg",
+    "identidadeSecreta": "Felicia Hardy"
+  },
+  {
+    "nome": "Black Flash",
+    "poderes": "Speed, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/100-black-flash.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Black Knight III",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/102-black-knight-iii.jpg",
+    "identidadeSecreta": "Dane Whitman"
+  },
+  {
+    "nome": "Black Lightning",
+    "poderes": "Combat, Power, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/103-black-lightning.jpg",
+    "identidadeSecreta": "Jefferson Pierce"
+  },
+  {
+    "nome": "Black Mamba",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/104-black-mamba.jpg",
+    "identidadeSecreta": "Tanya Sealy"
+  },
+  {
+    "nome": "Black Manta",
+    "poderes": "Combat, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/105-black-manta.jpg",
+    "identidadeSecreta": "David"
+  },
+  {
+    "nome": "Black Panther",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/106-black-panther.jpg",
+    "identidadeSecreta": "T'Challa"
+  },
+  {
+    "nome": "Black Widow",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/107-black-widow.jpg",
+    "identidadeSecreta": "Natasha Romanoff"
+  },
+  {
+    "nome": "Blackout",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/109-blackout.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Blackwing",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/110-blackwing.jpg",
+    "identidadeSecreta": "Joseph Manfredi"
+  },
+  {
+    "nome": "Blackwulf",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/111-blackwulf.jpg",
+    "identidadeSecreta": "Lucian"
+  },
+  {
+    "nome": "Blade",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/112-blade.jpg",
+    "identidadeSecreta": "Eric Brooks"
+  },
+  {
+    "nome": "Bling!",
+    "poderes": "Durability, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/114-bling!.jpg",
+    "identidadeSecreta": "Roxanne Washington"
+  },
+  {
+    "nome": "Blink",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/115-blink.jpg",
+    "identidadeSecreta": "Clarice Ferguson"
+  },
+  {
+    "nome": "Blizzard II",
+    "poderes": "Combat, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/118-blizzard-ii.jpg",
+    "identidadeSecreta": "Donald Gill"
+  },
+  {
+    "nome": "Blob",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/119-blob.jpg",
+    "identidadeSecreta": "Frederick J. Dukes"
+  },
+  {
+    "nome": "Bloodaxe",
+    "poderes": "Power, Combat, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/120-bloodaxe.jpg",
+    "identidadeSecreta": "Jackie Lukus"
+  },
+  {
+    "nome": "Bloodhawk",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/121-bloodhawk.jpg",
+    "identidadeSecreta": "Lemuel Krug"
+  },
+  {
+    "nome": "Blue Beetle III",
+    "poderes": "Power, Durability, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/126-blue-beetle-iii.jpg",
+    "identidadeSecreta": "Jaime Reyes"
+  },
+  {
+    "nome": "Boba Fett",
+    "poderes": "Combat, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/127-boba-fett.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Boom-Boom",
+    "poderes": "Combat, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/130-boom-boom.jpg",
+    "identidadeSecreta": "Tabitha Smith"
+  },
+  {
+    "nome": "Box IV",
+    "poderes": "Strength, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/135-box-iv.jpg",
+    "identidadeSecreta": "Madison Jeffries"
+  },
+  {
+    "nome": "Brainiac",
+    "poderes": "Intelligence, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/136-brainiac.jpg",
+    "identidadeSecreta": "Vril Dox"
+  },
+  {
+    "nome": "Brainiac 5",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/137-brainiac-5.jpg",
+    "identidadeSecreta": "Querl Dox"
+  },
+  {
+    "nome": "Brundlefly",
+    "poderes": "Intelligence, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/139-brundlefly.jpg",
+    "identidadeSecreta": "Seth Brundle"
+  },
+  {
+    "nome": "Buffy",
+    "poderes": "Durability, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/140-buffy.jpg",
+    "identidadeSecreta": "Buffy Anne Summers"
+  },
+  {
+    "nome": "Bullseye",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/141-bullseye.jpg",
+    "identidadeSecreta": "Lester"
+  },
+  {
+    "nome": "Bumblebee",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/142-bumblebee.jpg",
+    "identidadeSecreta": "Karen Beecher"
+  },
+  {
+    "nome": "Bushido",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/144-bushido.jpg",
+    "identidadeSecreta": "Ryuko Orsono"
+  },
+  {
+    "nome": "Cable",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/145-cable.jpg",
+    "identidadeSecreta": "Nathan Summers"
+  },
+  {
+    "nome": "Callisto",
+    "poderes": "Combat, Intelligence, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/146-callisto.jpg",
+    "identidadeSecreta": "Callisto"
+  },
+  {
+    "nome": "Cameron Hicks",
+    "poderes": "Combat, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/147-cameron-hicks.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Cannonball",
+    "poderes": "Durability, Power, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/148-cannonball.jpg",
+    "identidadeSecreta": "Samuel Zachery Guthrie"
+  },
+  {
+    "nome": "Captain America",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/149-captain-america.jpg",
+    "identidadeSecreta": "Steve Rogers"
+  },
+  {
+    "nome": "Captain Atom",
+    "poderes": "Power, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/150-captain-atom.jpg",
+    "identidadeSecreta": "Nathaniel Adam"
+  },
+  {
+    "nome": "Captain Britain",
+    "poderes": "Combat, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/151-captain-britain.jpg",
+    "identidadeSecreta": "Brian Braddock"
+  },
+  {
+    "nome": "Captain Cold",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/152-captain-cold.jpg",
+    "identidadeSecreta": "Leonard Snart"
+  },
+  {
+    "nome": "Captain Hindsight",
+    "poderes": "Speed, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/154-captain-hindsight.jpg",
+    "identidadeSecreta": "Jack Brolin"
+  },
+  {
+    "nome": "Captain Marvel",
+    "poderes": "Strength, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/156-captain-marvel.jpg",
+    "identidadeSecreta": "Billy Batson"
+  },
+  {
+    "nome": "Captain Marvel",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/157-captain-marvel.jpg",
+    "identidadeSecreta": "Carol Danvers"
+  },
+  {
+    "nome": "Captain Marvel II",
+    "poderes": "Durability, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/158-captain-marvel-ii.jpg",
+    "identidadeSecreta": "Frederick Christopher Freeman"
+  },
+  {
+    "nome": "Captain Planet",
+    "poderes": "Power, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/160-captain-planet.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Carnage",
+    "poderes": "Combat, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/162-carnage.jpg",
+    "identidadeSecreta": "Cletus Kasady"
+  },
+  {
+    "nome": "Catwoman",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/165-catwoman.jpg",
+    "identidadeSecreta": "Selina Kyle"
+  },
+  {
+    "nome": "Century",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/167-century.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Chamber",
+    "poderes": "Durability, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/169-chamber.jpg",
+    "identidadeSecreta": "Jonothon Evan Starsmore"
+  },
+  {
+    "nome": "Chameleon",
+    "poderes": "Intelligence, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/170-chameleon.jpg",
+    "identidadeSecreta": "Dmitri Anatoly Smerdyakov Kravinoff"
+  },
+  {
+    "nome": "Changeling",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/171-changeling.jpg",
+    "identidadeSecreta": "Kevin Sidney"
+  },
+  {
+    "nome": "Cheetah",
+    "poderes": "Combat, Speed, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/172-cheetah.jpg",
+    "identidadeSecreta": "Priscilla Rich"
+  },
+  {
+    "nome": "Cheetah III",
+    "poderes": "Strength, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/174-cheetah-iii.jpg",
+    "identidadeSecreta": "Barbara Minerva"
+  },
+  {
+    "nome": "Chuck Norris",
+    "poderes": "Combat, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/176-chuck-norris.jpg",
+    "identidadeSecreta": "Carlos Ray Norris"
+  },
+  {
+    "nome": "Citizen Steel",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/177-citizen-steel.jpg",
+    "identidadeSecreta": "Nathan Heywood"
+  },
+  {
+    "nome": "Claire Bennet",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/178-claire-bennet.jpg",
+    "identidadeSecreta": "Claire Bennet"
+  },
+  {
+    "nome": "Cloak",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/180-cloak.jpg",
+    "identidadeSecreta": "Tyrone Johnson"
+  },
+  {
+    "nome": "Clock King",
+    "poderes": "Intelligence, Combat, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/181-clock-king.jpg",
+    "identidadeSecreta": "William Tockman"
+  },
+  {
+    "nome": "Colossus",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/185-colossus.jpg",
+    "identidadeSecreta": "Piotr Nikolaievitch Rasputin"
+  },
+  {
+    "nome": "Copycat",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/186-copycat.jpg",
+    "identidadeSecreta": "Vanessa Carlysle"
+  },
+  {
+    "nome": "Cottonmouth",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/188-cottonmouth.jpg",
+    "identidadeSecreta": "Burchell Clemens"
+  },
+  {
+    "nome": "Crystal",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/191-crystal.jpg",
+    "identidadeSecreta": "Crystallia Amaquelin"
+  },
+  {
+    "nome": "Cyborg",
+    "poderes": "Durability, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/194-cyborg.jpg",
+    "identidadeSecreta": "Victor Stone"
+  },
+  {
+    "nome": "Cyborg Superman",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/195-cyborg-superman.jpg",
+    "identidadeSecreta": "Henry Henshaw"
+  },
+  {
+    "nome": "Cyclops",
+    "poderes": "Combat, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/196-cyclops.jpg",
+    "identidadeSecreta": "Scott Summers"
+  },
+  {
+    "nome": "Dagger",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/198-dagger.jpg",
+    "identidadeSecreta": "Tandy Bowen"
+  },
+  {
+    "nome": "Daphne Powell",
+    "poderes": "Power, Intelligence, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/200-daphne-powell.jpg",
+    "identidadeSecreta": "Daphne Powell"
+  },
+  {
+    "nome": "Daredevil",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/201-daredevil.jpg",
+    "identidadeSecreta": "Matt Murdock"
+  },
+  {
+    "nome": "Darkhawk",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/202-darkhawk.jpg",
+    "identidadeSecreta": "Christopher Powell"
+  },
+  {
+    "nome": "Darkman",
+    "poderes": "Durability, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/203-darkman.jpg",
+    "identidadeSecreta": "Peyton Westlake"
+  },
+  {
+    "nome": "Darkseid",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/204-darkseid.jpg",
+    "identidadeSecreta": "Uxas"
+  },
+  {
+    "nome": "Darkstar",
+    "poderes": "Power, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/206-darkstar.jpg",
+    "identidadeSecreta": "Laynia Petrovna"
+  },
+  {
+    "nome": "Darth Maul",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/207-darth-maul.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Darth Vader",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/208-darth-vader.jpg",
+    "identidadeSecreta": "Anakin Skywalker"
+  },
+  {
+    "nome": "Dash",
+    "poderes": "Speed, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/209-dash.jpg",
+    "identidadeSecreta": "Dashiell Robert Parr"
+  },
+  {
+    "nome": "Data",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/210-data.jpg",
+    "identidadeSecreta": "Data"
+  },
+  {
+    "nome": "Dazzler",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/211-dazzler.jpg",
+    "identidadeSecreta": "Alison Blaire"
+  },
+  {
+    "nome": "Deadman",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/212-deadman.jpg",
+    "identidadeSecreta": "Boston Brand"
+  },
+  {
+    "nome": "Deadpool",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/213-deadpool.jpg",
+    "identidadeSecreta": "Wade Wilson"
+  },
+  {
+    "nome": "Deadshot",
+    "poderes": "Combat, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/214-deadshot.jpg",
+    "identidadeSecreta": "Floyd Lawton"
+  },
+  {
+    "nome": "Deathlok",
+    "poderes": "Durability, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/215-deathlok.jpg",
+    "identidadeSecreta": "Luther Manning"
+  },
+  {
+    "nome": "Deathstroke",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/216-deathstroke.jpg",
+    "identidadeSecreta": "Slade Joseph Wilson"
+  },
+  {
+    "nome": "Demogoblin",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/217-demogoblin.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Destroyer",
+    "poderes": "Durability, Strength, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/218-destroyer.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Diamondback",
+    "poderes": "Combat, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/219-diamondback.jpg",
+    "identidadeSecreta": "Willis Stryker"
+  },
+  {
+    "nome": "DL Hawkins",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/220-dl-hawkins.jpg",
+    "identidadeSecreta": "Daniel Lawrence Hawkins"
+  },
+  {
+    "nome": "Doc Samson",
+    "poderes": "Strength, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/221-doc-samson.jpg",
+    "identidadeSecreta": "Leonard Samson"
+  },
+  {
+    "nome": "Doctor Doom",
+    "poderes": "Intelligence, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/222-doctor-doom.jpg",
+    "identidadeSecreta": "Victor von Doom"
+  },
+  {
+    "nome": "Doctor Fate",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/224-doctor-fate.jpg",
+    "identidadeSecreta": "Kent Nelson"
+  },
+  {
+    "nome": "Doctor Octopus",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/225-doctor-octopus.jpg",
+    "identidadeSecreta": "Otto Octavius"
+  },
+  {
+    "nome": "Doctor Strange",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/226-doctor-strange.jpg",
+    "identidadeSecreta": "Stephen Strange"
+  },
+  {
+    "nome": "Domino",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/227-domino.jpg",
+    "identidadeSecreta": "Neena Thurman"
+  },
+  {
+    "nome": "Donatello",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/228-donatello.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Doomsday",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/230-doomsday.jpg",
+    "identidadeSecreta": "Doomsday"
+  },
+  {
+    "nome": "Doppelganger",
+    "poderes": "Durability, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/231-doppelganger.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Dormammu",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/232-dormammu.jpg",
+    "identidadeSecreta": "Dormammu"
+  },
+  {
+    "nome": "Dr Manhattan",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/233-dr-manhattan.jpg",
+    "identidadeSecreta": "Jonathan Osterman"
+  },
+  {
+    "nome": "Drax the Destroyer",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/234-drax-the-destroyer.jpg",
+    "identidadeSecreta": "Arthur Sampson Douglas"
+  },
+  {
+    "nome": "Ego",
+    "poderes": "Durability, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/235-ego.jpg",
+    "identidadeSecreta": "Ego"
+  },
+  {
+    "nome": "Elastigirl",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/236-elastigirl.jpg",
+    "identidadeSecreta": "Helen Parr"
+  },
+  {
+    "nome": "Electro",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/237-electro.jpg",
+    "identidadeSecreta": "Maxwell Dillon"
+  },
+  {
+    "nome": "Elektra",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/238-elektra.jpg",
+    "identidadeSecreta": "Elektra Natchios"
+  },
+  {
+    "nome": "Elle Bishop",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/239-elle-bishop.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Elongated Man",
+    "poderes": "Durability, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/240-elongated-man.jpg",
+    "identidadeSecreta": "Ralph Dibny"
+  },
+  {
+    "nome": "Emma Frost",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/241-emma-frost.jpg",
+    "identidadeSecreta": "Emma Frost"
+  },
+  {
+    "nome": "Enchantress",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/242-enchantress.jpg",
+    "identidadeSecreta": "June Moone"
+  },
+  {
+    "nome": "Ethan Hunt",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/245-ethan-hunt.jpg",
+    "identidadeSecreta": "Ethan Hunt"
+  },
+  {
+    "nome": "Etrigan",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/246-etrigan.jpg",
+    "identidadeSecreta": "Jason Blood"
+  },
+  {
+    "nome": "Evil Deadpool",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/247-evil-deadpool.jpg",
+    "identidadeSecreta": "Wade Wilson"
+  },
+  {
+    "nome": "Evilhawk",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/248-evilhawk.jpg",
+    "identidadeSecreta": "Dargin Bokk"
+  },
+  {
+    "nome": "Exodus",
+    "poderes": "Power, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/249-exodus.jpg",
+    "identidadeSecreta": "Bennet du Paris"
+  },
+  {
+    "nome": "Falcon",
+    "poderes": "Combat, Speed, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/251-falcon.jpg",
+    "identidadeSecreta": "Sam Wilson"
+  },
+  {
+    "nome": "Fallen One II",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/252-fallen-one-ii.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Faora",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/253-faora.jpg",
+    "identidadeSecreta": "Faora Hu-Ul"
+  },
+  {
+    "nome": "Feral",
+    "poderes": "Combat, Speed, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/254-feral.jpg",
+    "identidadeSecreta": "Maria Callasantos"
+  },
+  {
+    "nome": "Fin Fang Foom",
+    "poderes": "Durability, Strength, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/256-fin-fang-foom.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Firebird",
+    "poderes": "Power, Combat, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/257-firebird.jpg",
+    "identidadeSecreta": "Bonita Juarez"
+  },
+  {
+    "nome": "Firelord",
+    "poderes": "Durability, Speed, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/258-firelord.jpg",
+    "identidadeSecreta": "Pyreus Kril"
+  },
+  {
+    "nome": "Firestar",
+    "poderes": "Power, Durability, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/259-firestar.jpg",
+    "identidadeSecreta": "Angelica Jones"
+  },
+  {
+    "nome": "Firestorm",
+    "poderes": "Power, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/260-firestorm.jpg",
+    "identidadeSecreta": "Jason Rusch"
+  },
+  {
+    "nome": "Firestorm",
+    "poderes": "Power, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/261-firestorm.jpg",
+    "identidadeSecreta": "Ronald Raymond"
+  },
+  {
+    "nome": "Flash",
+    "poderes": "Speed, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/263-flash.jpg",
+    "identidadeSecreta": "Jay Garrick"
+  },
+  {
+    "nome": "Flash II",
+    "poderes": "Speed, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/265-flash-ii.jpg",
+    "identidadeSecreta": "Barry Allen"
+  },
+  {
+    "nome": "Flash III",
+    "poderes": "Speed, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/266-flash-iii.jpg",
+    "identidadeSecreta": "Wally West"
+  },
+  {
+    "nome": "Flash IV",
+    "poderes": "Speed, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/267-flash-iv.jpg",
+    "identidadeSecreta": "Bartholomew Allen II"
+  },
+  {
+    "nome": "Forge",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/268-forge.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Franklin Richards",
+    "poderes": "Power, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/269-franklin-richards.jpg",
+    "identidadeSecreta": "Franklin  Richards"
+  },
+  {
+    "nome": "Franklin Storm",
+    "poderes": "Intelligence, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/270-franklin-storm.jpg",
+    "identidadeSecreta": "Dr. Franklin Storm"
+  },
+  {
+    "nome": "Frenzy",
+    "poderes": "Durability, Intelligence, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/271-frenzy.jpg",
+    "identidadeSecreta": "Joanna Cargill"
+  },
+  {
+    "nome": "Galactus",
+    "poderes": "Intelligence, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/273-galactus.jpg",
+    "identidadeSecreta": "Galan"
+  },
+  {
+    "nome": "Gambit",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/274-gambit.jpg",
+    "identidadeSecreta": "Remy Etienne LeBeau"
+  },
+  {
+    "nome": "Gamora",
+    "poderes": "Combat, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/275-gamora.jpg",
+    "identidadeSecreta": "Gamora Zen Whoberi Ben Titan"
+  },
+  {
+    "nome": "Gary Bell",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/277-gary-bell.jpg",
+    "identidadeSecreta": "Gary Bell"
+  },
+  {
+    "nome": "General Zod",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/278-general-zod.jpg",
+    "identidadeSecreta": "Dru-Zod"
+  },
+  {
+    "nome": "Ghost Rider",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/280-ghost-rider.jpg",
+    "identidadeSecreta": "Johnny Blaze"
+  },
+  {
+    "nome": "Giganta",
+    "poderes": "Strength, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/284-giganta.jpg",
+    "identidadeSecreta": "Doris Zuel"
+  },
+  {
+    "nome": "Gladiator",
+    "poderes": "Strength, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/285-gladiator.jpg",
+    "identidadeSecreta": "Kallark"
+  },
+  {
+    "nome": "Goblin Queen",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/286-goblin-queen.jpg",
+    "identidadeSecreta": "Madelyne Jennifer Pryor"
+  },
+  {
+    "nome": "Godzilla",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/287-godzilla.jpg",
+    "identidadeSecreta": "Gojira"
+  },
+  {
+    "nome": "Gog",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Goku",
+    "poderes": "Strength, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/289-goku.jpg",
+    "identidadeSecreta": "Kakarot"
+  },
+  {
+    "nome": "Gorilla Grodd",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/294-gorilla-grodd.jpg",
+    "identidadeSecreta": "Grodd"
+  },
+  {
+    "nome": "Gravity",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/296-gravity.jpg",
+    "identidadeSecreta": "Greg Willis"
+  },
+  {
+    "nome": "Greedo",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/297-greedo.jpg",
+    "identidadeSecreta": "Greedo"
+  },
+  {
+    "nome": "Green Arrow",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/298-green-arrow.jpg",
+    "identidadeSecreta": "Oliver Queen"
+  },
+  {
+    "nome": "Green Goblin",
+    "poderes": "Intelligence, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/299-green-goblin.jpg",
+    "identidadeSecreta": "Norman Osborn"
+  },
+  {
+    "nome": "Green Goblin II",
+    "poderes": "Intelligence, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/300-green-goblin-ii.jpg",
+    "identidadeSecreta": "Harold Osborn"
+  },
+  {
+    "nome": "Groot",
+    "poderes": "Power, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/303-groot.jpg",
+    "identidadeSecreta": "Groot"
+  },
+  {
+    "nome": "Guy Gardner",
+    "poderes": "Power, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/305-guy-gardner.jpg",
+    "identidadeSecreta": "Guy Gardner"
+  },
+  {
+    "nome": "Hal Jordan",
+    "poderes": "Power, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/306-hal-jordan.jpg",
+    "identidadeSecreta": "Hal Jordan"
+  },
+  {
+    "nome": "Han Solo",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/307-han-solo.jpg",
+    "identidadeSecreta": "Han Solo"
+  },
+  {
+    "nome": "Hancock",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/308-hancock.jpg",
+    "identidadeSecreta": "John Hancock"
+  },
+  {
+    "nome": "Harley Quinn",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/309-harley-quinn.jpg",
+    "identidadeSecreta": "Harley Quinn"
+  },
+  {
+    "nome": "Harry Potter",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/310-harry-potter.jpg",
+    "identidadeSecreta": "Harry James Potter"
+  },
+  {
+    "nome": "Havok",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/311-havok.jpg",
+    "identidadeSecreta": "Alexander Summers"
+  },
+  {
+    "nome": "Hawk",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/312-hawk.jpg",
+    "identidadeSecreta": "Henry Hall"
+  },
+  {
+    "nome": "Hawkeye",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/313-hawkeye.jpg",
+    "identidadeSecreta": "Clint Barton"
+  },
+  {
+    "nome": "Hawkeye II",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/314-hawkeye-ii.jpg",
+    "identidadeSecreta": "Katherine Elizabeth Bishop"
+  },
+  {
+    "nome": "Hawkgirl",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/315-hawkgirl.jpg",
+    "identidadeSecreta": "Kendra Saunders"
+  },
+  {
+    "nome": "Heat Wave",
+    "poderes": "Durability, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/320-heat-wave.jpg",
+    "identidadeSecreta": "Mick Rory"
+  },
+  {
+    "nome": "Hela",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/321-hela.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Hellboy",
+    "poderes": "Durability, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/322-hellboy.jpg",
+    "identidadeSecreta": "Anung Un Rama"
+  },
+  {
+    "nome": "Hellcat",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/323-hellcat.jpg",
+    "identidadeSecreta": "Patricia Walker"
+  },
+  {
+    "nome": "Hercules",
+    "poderes": "Strength, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/325-hercules.jpg",
+    "identidadeSecreta": "Heracles"
+  },
+  {
+    "nome": "Hit-Girl",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/327-hit-girl.jpg",
+    "identidadeSecreta": "Mindy McCready"
+  },
+  {
+    "nome": "Hope Summers",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/330-hope-summers.jpg",
+    "identidadeSecreta": "Hope Summers"
+  },
+  {
+    "nome": "Hulk",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/332-hulk.jpg",
+    "identidadeSecreta": "Bruce Banner"
+  },
+  {
+    "nome": "Human Torch",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/333-human-torch.jpg",
+    "identidadeSecreta": "Johnny Storm"
+  },
+  {
+    "nome": "Huntress",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/334-huntress.jpg",
+    "identidadeSecreta": "Helena Rosa Bertinelli"
+  },
+  {
+    "nome": "Husk",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/335-husk.jpg",
+    "identidadeSecreta": "Paige Elisabeth Guthrie"
+  },
+  {
+    "nome": "Hybrid",
+    "poderes": "Power, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/336-hybrid.jpg",
+    "identidadeSecreta": "Scott Washington"
+  },
+  {
+    "nome": "Hydro-Man",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/337-hydro-man.jpg",
+    "identidadeSecreta": "Morris Bench"
+  },
+  {
+    "nome": "Hyperion",
+    "poderes": "Strength, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/338-hyperion.jpg",
+    "identidadeSecreta": "Mark Milton"
+  },
+  {
+    "nome": "Iceman",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/339-iceman.jpg",
+    "identidadeSecreta": "Bobby Drake"
+  },
+  {
+    "nome": "Impulse",
+    "poderes": "Speed, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/340-impulse.jpg",
+    "identidadeSecreta": "Bartholomew Allen II"
+  },
+  {
+    "nome": "Indiana Jones",
+    "poderes": "Intelligence, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/341-indiana-jones.jpg",
+    "identidadeSecreta": "Indiana Jones"
+  },
+  {
+    "nome": "Indigo",
+    "poderes": "Power, Intelligence, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/342-indigo.jpg",
+    "identidadeSecreta": "Iroque"
+  },
+  {
+    "nome": "Ink",
+    "poderes": "Power, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/343-ink.jpg",
+    "identidadeSecreta": "Eric Gitter"
+  },
+  {
+    "nome": "Invisible Woman",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/344-invisible-woman.jpg",
+    "identidadeSecreta": "Susan Storm Richards"
+  },
+  {
+    "nome": "Iron Fist",
+    "poderes": "Combat, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/345-iron-fist.jpg",
+    "identidadeSecreta": "Danny Rand"
+  },
+  {
+    "nome": "Iron Man",
+    "poderes": "Intelligence, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/346-iron-man.jpg",
+    "identidadeSecreta": "Tony Stark"
+  },
+  {
+    "nome": "Iron Monger",
+    "poderes": "Durability, Intelligence, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/347-iron-monger.jpg",
+    "identidadeSecreta": "Obadiah Stane"
+  },
+  {
+    "nome": "Isis",
+    "poderes": "Intelligence, Speed, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/348-isis.jpg",
+    "identidadeSecreta": "Adrianna Tomaz"
+  },
+  {
+    "nome": "Jack of Hearts",
+    "poderes": "Speed, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/350-jack-of-hearts.jpg",
+    "identidadeSecreta": "Jonathan Hart"
+  },
+  {
+    "nome": "Jack-Jack",
+    "poderes": "Power, Durability, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/351-jack-jack.jpg",
+    "identidadeSecreta": "Jack-Jack Parr"
+  },
+  {
+    "nome": "James Bond",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/352-james-bond.jpg",
+    "identidadeSecreta": "James Bond"
+  },
+  {
+    "nome": "James T. Kirk",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/353-james-t.-kirk.jpg",
+    "identidadeSecreta": "James T. Kirk"
+  },
+  {
+    "nome": "Jar Jar Binks",
+    "poderes": "Speed, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/354-jar-jar-binks.jpg",
+    "identidadeSecreta": "Jar Jar Binks"
+  },
+  {
+    "nome": "Jason Bourne",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/355-jason-bourne.jpg",
+    "identidadeSecreta": "Jason Bourne"
+  },
+  {
+    "nome": "Jean Grey",
+    "poderes": "Intelligence, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/356-jean-grey.jpg",
+    "identidadeSecreta": "Jean Grey"
+  },
+  {
+    "nome": "Jean-Luc Picard",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/357-jean-luc-picard.jpg",
+    "identidadeSecreta": "Jean-Luc Picard"
+  },
+  {
+    "nome": "Jennifer Kale",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/358-jennifer-kale.jpg",
+    "identidadeSecreta": "Jennifer Kale"
+  },
+  {
+    "nome": "Jessica Cruz",
+    "poderes": "Power, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/360-jessica-cruz.jpg",
+    "identidadeSecreta": "Jessica Cruz"
+  },
+  {
+    "nome": "Jessica Jones",
+    "poderes": "Durability, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/361-jessica-jones.jpg",
+    "identidadeSecreta": "Jessica Campbell Jones Cage"
+  },
+  {
+    "nome": "Jim Powell",
+    "poderes": "Durability, Intelligence, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/364-jim-powell.jpg",
+    "identidadeSecreta": "Jim Powell"
+  },
+  {
+    "nome": "JJ Powell",
+    "poderes": "Intelligence, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/365-jj-powell.jpg",
+    "identidadeSecreta": "JJ Powell"
+  },
+  {
+    "nome": "John Constantine",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/367-john-constantine.jpg",
+    "identidadeSecreta": "John Constantine"
+  },
+  {
+    "nome": "John Wraith",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg",
+    "identidadeSecreta": "John Wraith"
+  },
+  {
+    "nome": "Joker",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/370-joker.jpg",
+    "identidadeSecreta": "Jack Napier"
+  },
+  {
+    "nome": "Jolt",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/371-jolt.jpg",
+    "identidadeSecreta": "Helen Takahama"
+  },
+  {
+    "nome": "Jubilee",
+    "poderes": "Combat, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/372-jubilee.jpg",
+    "identidadeSecreta": "Jubilation Lee"
+  },
+  {
+    "nome": "Judge Dredd",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/373-judge-dredd.jpg",
+    "identidadeSecreta": "Joseph Dredd"
+  },
+  {
+    "nome": "Juggernaut",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/374-juggernaut.jpg",
+    "identidadeSecreta": "Cain Marko"
+  },
+  {
+    "nome": "Junkpile",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/375-junkpile.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Justice",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/376-justice.jpg",
+    "identidadeSecreta": "Vance Astrovik"
+  },
+  {
+    "nome": "Kang",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/379-kang.jpg",
+    "identidadeSecreta": "Nathaniel Richards"
+  },
+  {
+    "nome": "Kathryn Janeway",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/380-kathryn-janeway.jpg",
+    "identidadeSecreta": "Kathryn Janeway"
+  },
+  {
+    "nome": "Katniss Everdeen",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/381-katniss-everdeen.jpg",
+    "identidadeSecreta": "Katniss Everdeen"
+  },
+  {
+    "nome": "Kevin 11",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/382-kevin-11.jpg",
+    "identidadeSecreta": "Kevin Ethan Levin"
+  },
+  {
+    "nome": "Kick-Ass",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/383-kick-ass.jpg",
+    "identidadeSecreta": "Dave Lizewski"
+  },
+  {
+    "nome": "Kid Flash",
+    "poderes": "Speed, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/384-kid-flash.jpg",
+    "identidadeSecreta": "Wallace Rudolph West"
+  },
+  {
+    "nome": "Killer Croc",
+    "poderes": "Durability, Combat, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/386-killer-croc.jpg",
+    "identidadeSecreta": "Waylon Jones"
+  },
+  {
+    "nome": "Killer Frost",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/387-killer-frost.jpg",
+    "identidadeSecreta": "Caitlin Snow"
+  },
+  {
+    "nome": "Kilowog",
+    "poderes": "Power, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/388-kilowog.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "King Kong",
+    "poderes": "Strength, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/389-king-kong.jpg",
+    "identidadeSecreta": "King Kong"
+  },
+  {
+    "nome": "King Shark",
+    "poderes": "Durability, Strength, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/390-king-shark.jpg",
+    "identidadeSecreta": "Nanaue"
+  },
+  {
+    "nome": "Kingpin",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/391-kingpin.jpg",
+    "identidadeSecreta": "Wilson Grant Fisk"
+  },
+  {
+    "nome": "Klaw",
+    "poderes": "Durability, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/392-klaw.jpg",
+    "identidadeSecreta": "Ulysses Klaw"
+  },
+  {
+    "nome": "Kool-Aid Man",
+    "poderes": "Intelligence, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/393-kool-aid-man.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Kraven II",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/394-kraven-ii.jpg",
+    "identidadeSecreta": "Alyosha Kravinoff"
+  },
+  {
+    "nome": "Kraven the Hunter",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/395-kraven-the-hunter.jpg",
+    "identidadeSecreta": "Sergei Kravinoff"
+  },
+  {
+    "nome": "Krypto",
+    "poderes": "Speed, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/396-krypto.jpg",
+    "identidadeSecreta": "Krypto the Superdog"
+  },
+  {
+    "nome": "Kyle Rayner",
+    "poderes": "Power, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/397-kyle-rayner.jpg",
+    "identidadeSecreta": "Kyle Rayner"
+  },
+  {
+    "nome": "Kylo Ren",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/398-kylo-ren.jpg",
+    "identidadeSecreta": "Ben Solo"
+  },
+  {
+    "nome": "Lady Deathstrike",
+    "poderes": "Combat, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/400-lady-deathstrike.jpg",
+    "identidadeSecreta": "Yuriko Oyama"
+  },
+  {
+    "nome": "Leader",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/401-leader.jpg",
+    "identidadeSecreta": "Samuel Sterns"
+  },
+  {
+    "nome": "Leech",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/402-leech.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Legion",
+    "poderes": "Strength, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/403-legion.jpg",
+    "identidadeSecreta": "David Haller"
+  },
+  {
+    "nome": "Leonardo",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/404-leonardo.jpg",
+    "identidadeSecreta": "Leonardo"
+  },
+  {
+    "nome": "Lex Luthor",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/405-lex-luthor.jpg",
+    "identidadeSecreta": "Lex Luthor"
+  },
+  {
+    "nome": "Light Lass",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/406-light-lass.jpg",
+    "identidadeSecreta": "Ayla Ranzz"
+  },
+  {
+    "nome": "Lightning Lad",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/407-lightning-lad.jpg",
+    "identidadeSecreta": "Garth Ranzz"
+  },
+  {
+    "nome": "Lightning Lord",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/408-lightning-lord.jpg",
+    "identidadeSecreta": "Mekt Ranzz"
+  },
+  {
+    "nome": "Living Brain",
+    "poderes": "Intelligence, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/409-living-brain.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Living Tribunal",
+    "poderes": "Intelligence, Strength, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/410-living-tribunal.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Lizard",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/412-lizard.jpg",
+    "identidadeSecreta": "Curtis Connors"
+  },
+  {
+    "nome": "Lobo",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/413-lobo.jpg",
+    "identidadeSecreta": "Lobo"
+  },
+  {
+    "nome": "Loki",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/414-loki.jpg",
+    "identidadeSecreta": "Loki Laufeyson"
+  },
+  {
+    "nome": "Longshot",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/415-longshot.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Luke Cage",
+    "poderes": "Durability, Combat, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/416-luke-cage.jpg",
+    "identidadeSecreta": "Luke Cage"
+  },
+  {
+    "nome": "Luke Skywalker",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/418-luke-skywalker.jpg",
+    "identidadeSecreta": "Luke Skywalker"
+  },
+  {
+    "nome": "Luna",
+    "poderes": "Speed, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/419-luna.jpg",
+    "identidadeSecreta": "Luna Maximoff"
+  },
+  {
+    "nome": "Mach-IV",
+    "poderes": "Durability, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/421-mach-iv.jpg",
+    "identidadeSecreta": "Abner Jenkins"
+  },
+  {
+    "nome": "Machine Man",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/422-machine-man.jpg",
+    "identidadeSecreta": "X-51, Aaron Stack"
+  },
+  {
+    "nome": "Magneto",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/423-magneto.jpg",
+    "identidadeSecreta": "Erik Magnus Lensherr"
+  },
+  {
+    "nome": "Magog",
+    "poderes": "Combat, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/424-magog.jpg",
+    "identidadeSecreta": "David Reid"
+  },
+  {
+    "nome": "Magus",
+    "poderes": "Strength, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/425-magus.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Man of Miracles",
+    "poderes": "Intelligence, Strength, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/426-man-of-miracles.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Man-Bat",
+    "poderes": "Durability, Speed, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/427-man-bat.jpg",
+    "identidadeSecreta": "Robert Kirkland Langstrom"
+  },
+  {
+    "nome": "Man-Thing",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/428-man-thing.jpg",
+    "identidadeSecreta": "Dr. Theodore Sallis"
+  },
+  {
+    "nome": "Man-Wolf",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/429-man-wolf.jpg",
+    "identidadeSecreta": "John Jameson"
+  },
+  {
+    "nome": "Mandarin",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/430-mandarin.jpg",
+    "identidadeSecreta": "Khan"
+  },
+  {
+    "nome": "Mantis",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/431-mantis.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Martian Manhunter",
+    "poderes": "Intelligence, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/432-martian-manhunter.jpg",
+    "identidadeSecreta": "J'onn J'onzz"
+  },
+  {
+    "nome": "Marvel Girl",
+    "poderes": "Power, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/433-marvel-girl.jpg",
+    "identidadeSecreta": "Rachel Anne Summers"
+  },
+  {
+    "nome": "Master Chief",
+    "poderes": "Combat, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/435-master-chief.jpg",
+    "identidadeSecreta": "John-117"
+  },
+  {
+    "nome": "Match",
+    "poderes": "Power, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/436-match.jpg",
+    "identidadeSecreta": "Kent Connor"
+  },
+  {
+    "nome": "Matt Parkman",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/437-matt-parkman.jpg",
+    "identidadeSecreta": "Matthew Parkman"
+  },
+  {
+    "nome": "Maverick",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/438-maverick.jpg",
+    "identidadeSecreta": "Christopher Bradley"
+  },
+  {
+    "nome": "Maxima",
+    "poderes": "Strength, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/439-maxima.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Maya Herrera",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/440-maya-herrera.jpg",
+    "identidadeSecreta": "Maya Herrera"
+  },
+  {
+    "nome": "Medusa",
+    "poderes": "Intelligence, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/441-medusa.jpg",
+    "identidadeSecreta": "Medusalith Amaquelin Boltagon"
+  },
+  {
+    "nome": "Meltdown",
+    "poderes": "Combat, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/442-meltdown.jpg",
+    "identidadeSecreta": "Tabitha Smith"
+  },
+  {
+    "nome": "Mephisto",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/443-mephisto.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Mera",
+    "poderes": "Power, Combat, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/444-mera.jpg",
+    "identidadeSecreta": "Mera"
+  },
+  {
+    "nome": "Metallo",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/445-metallo.jpg",
+    "identidadeSecreta": "John Corben"
+  },
+  {
+    "nome": "Metron",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/448-metron.jpg",
+    "identidadeSecreta": "Metron"
+  },
+  {
+    "nome": "Micah Sanders",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/449-micah-sanders.jpg",
+    "identidadeSecreta": "Micah Sanders"
+  },
+  {
+    "nome": "Michelangelo",
+    "poderes": "Combat, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/450-michelangelo.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Micro Lad",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/451-micro-lad.jpg",
+    "identidadeSecreta": "Gim Allon"
+  },
+  {
+    "nome": "Mimic",
+    "poderes": "Power, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/452-mimic.jpg",
+    "identidadeSecreta": "Calvin Montgomery Rankin"
+  },
+  {
+    "nome": "Misfit",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/454-misfit.jpg",
+    "identidadeSecreta": "Charlotte Gage-Radcliffe"
+  },
+  {
+    "nome": "Miss Martian",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/455-miss-martian.jpg",
+    "identidadeSecreta": "M'gann M'orzz"
+  },
+  {
+    "nome": "Mister Fantastic",
+    "poderes": "Intelligence, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/456-mister-fantastic.jpg",
+    "identidadeSecreta": "Reed Richards"
+  },
+  {
+    "nome": "Mister Freeze",
+    "poderes": "Intelligence, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/457-mister-freeze.jpg",
+    "identidadeSecreta": "Victor Fries"
+  },
+  {
+    "nome": "Mister Knife",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/458-mister-knife.jpg",
+    "identidadeSecreta": "J'son"
+  },
+  {
+    "nome": "Mister Mxyzptlk",
+    "poderes": "Intelligence, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/459-mister-mxyzptlk.jpg",
+    "identidadeSecreta": "Mr. Mxyzptlk"
+  },
+  {
+    "nome": "Mister Sinister",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/460-mister-sinister.jpg",
+    "identidadeSecreta": "Nathaniel Essex"
+  },
+  {
+    "nome": "Mister Zsasz",
+    "poderes": "Intelligence, Combat, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg",
+    "identidadeSecreta": "Victor Zsasz"
+  },
+  {
+    "nome": "Mockingbird",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/462-mockingbird.jpg",
+    "identidadeSecreta": "Barbara Morse"
+  },
+  {
+    "nome": "MODOK",
+    "poderes": "Intelligence, Power, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/463-modok.jpg",
+    "identidadeSecreta": "George Tarleton"
+  },
+  {
+    "nome": "Molten Man",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/467-molten-man.jpg",
+    "identidadeSecreta": "Mark Raxton"
+  },
+  {
+    "nome": "Monica Dawson",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/469-monica-dawson.jpg",
+    "identidadeSecreta": "Monica Dawson"
+  },
+  {
+    "nome": "Moon Knight",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/470-moon-knight.jpg",
+    "identidadeSecreta": "Marc Spector"
+  },
+  {
+    "nome": "Moonstone",
+    "poderes": "Combat, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/471-moonstone.jpg",
+    "identidadeSecreta": "Karla Sofen"
+  },
+  {
+    "nome": "Morlun",
+    "poderes": "Power, Intelligence, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/472-morlun.jpg",
+    "identidadeSecreta": "Morlun"
+  },
+  {
+    "nome": "Moses Magnum",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/474-moses-magnum.jpg",
+    "identidadeSecreta": "Moses Magnum"
+  },
+  {
+    "nome": "Mr Immortal",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg",
+    "identidadeSecreta": "Craig Hollis"
+  },
+  {
+    "nome": "Mr Incredible",
+    "poderes": "Durability, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/476-mr-incredible.jpg",
+    "identidadeSecreta": "Robert Parr"
+  },
+  {
+    "nome": "Ms Marvel II",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/477-ms-marvel-ii.jpg",
+    "identidadeSecreta": "Sharon Ventura"
+  },
+  {
+    "nome": "Multiple Man",
+    "poderes": "Durability, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/478-multiple-man.jpg",
+    "identidadeSecreta": "James Arthur"
+  },
+  {
+    "nome": "Mysterio",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/479-mysterio.jpg",
+    "identidadeSecreta": "Quentin Beck"
+  },
+  {
+    "nome": "Mystique",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/480-mystique.jpg",
+    "identidadeSecreta": "Raven Darkholme"
+  },
+  {
+    "nome": "Namor",
+    "poderes": "Strength, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/481-namor.jpg",
+    "identidadeSecreta": "Namor McKenzie"
+  },
+  {
+    "nome": "Namora",
+    "poderes": "Strength, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/483-namora.jpg",
+    "identidadeSecreta": "Aquaria Nautica Neptunia"
+  },
+  {
+    "nome": "Namorita",
+    "poderes": "Strength, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/484-namorita.jpg",
+    "identidadeSecreta": "Namorita Prentiss"
+  },
+  {
+    "nome": "Naruto Uzumaki",
+    "poderes": "Power, Combat, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/485-naruto-uzumaki.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Nebula",
+    "poderes": "Intelligence, Combat, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/487-nebula.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Negasonic Teenage Warhead",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/488-negasonic-teenage-warhead.jpg",
+    "identidadeSecreta": "Ellie Phimister"
+  },
+  {
+    "nome": "Nick Fury",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/489-nick-fury.jpg",
+    "identidadeSecreta": "Nicholas Joseph Fury"
+  },
+  {
+    "nome": "Nightcrawler",
+    "poderes": "Combat, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/490-nightcrawler.jpg",
+    "identidadeSecreta": "Kurt Wagner"
+  },
+  {
+    "nome": "Nightwing",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/491-nightwing.jpg",
+    "identidadeSecreta": "Dick Grayson"
+  },
+  {
+    "nome": "Niki Sanders",
+    "poderes": "Intelligence, Combat, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/492-niki-sanders.jpg",
+    "identidadeSecreta": "Nicole Sanders"
+  },
+  {
+    "nome": "Nina Theroux",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/493-nina-theroux.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Northstar",
+    "poderes": "Speed, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/495-northstar.jpg",
+    "identidadeSecreta": "Jean-Paul Beaubier"
+  },
+  {
+    "nome": "Nova",
+    "poderes": "Intelligence, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/496-nova.jpg",
+    "identidadeSecreta": "Richard Rider"
+  },
+  {
+    "nome": "Nova",
+    "poderes": "Speed, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/497-nova.jpg",
+    "identidadeSecreta": "Frankie Raye"
+  },
+  {
+    "nome": "Odin",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/498-odin.jpg",
+    "identidadeSecreta": "Odin Borson"
+  },
+  {
+    "nome": "Offspring",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/499-offspring.jpg",
+    "identidadeSecreta": "Luke O'Brian"
+  },
+  {
+    "nome": "One Punch Man",
+    "poderes": "Strength, Durability, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/502-one-punch-man.jpg",
+    "identidadeSecreta": "Saitama"
+  },
+  {
+    "nome": "One-Above-All",
+    "poderes": "Intelligence, Strength, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/503-one-above-all.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Onslaught",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/504-onslaught.jpg",
+    "identidadeSecreta": "Onslaught"
+  },
+  {
+    "nome": "Oracle",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/505-oracle.jpg",
+    "identidadeSecreta": "Barbara Gordon"
+  },
+  {
+    "nome": "Osiris",
+    "poderes": "Durability, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/506-osiris.jpg",
+    "identidadeSecreta": "Amon Tomaz"
+  },
+  {
+    "nome": "Ozymandias",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/508-ozymandias.jpg",
+    "identidadeSecreta": "Adrian Veidt"
+  },
+  {
+    "nome": "Parademon",
+    "poderes": "Power, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/509-parademon.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Paul Blart",
+    "poderes": "Durability, Speed, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/510-paul-blart.jpg",
+    "identidadeSecreta": "Paul Blart"
+  },
+  {
+    "nome": "Penguin",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/514-penguin.jpg",
+    "identidadeSecreta": "Oswald Chesterfield Cobblepot"
+  },
+  {
+    "nome": "Phantom Girl",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/516-phantom-girl.jpg",
+    "identidadeSecreta": "Tinya Wazzo"
+  },
+  {
+    "nome": "Phoenix",
+    "poderes": "Intelligence, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/517-phoenix.jpg",
+    "identidadeSecreta": "Jean Grey"
+  },
+  {
+    "nome": "Plantman",
+    "poderes": "Intelligence, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/518-plantman.jpg",
+    "identidadeSecreta": "Samuel Smithers"
+  },
+  {
+    "nome": "Plastic Man",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/520-plastic-man.jpg",
+    "identidadeSecreta": "Patrick O'Brian"
+  },
+  {
+    "nome": "Plastique",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/521-plastique.jpg",
+    "identidadeSecreta": "Bette Sans Souci"
+  },
+  {
+    "nome": "Poison Ivy",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/522-poison-ivy.jpg",
+    "identidadeSecreta": "Pamela Isley"
+  },
+  {
+    "nome": "Polaris",
+    "poderes": "Power, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/523-polaris.jpg",
+    "identidadeSecreta": "Lorna Dane"
+  },
+  {
+    "nome": "Power Girl",
+    "poderes": "Strength, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/524-power-girl.jpg",
+    "identidadeSecreta": "Kara Zor-L"
+  },
+  {
+    "nome": "Predator",
+    "poderes": "Power, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/526-predator.jpg",
+    "identidadeSecreta": "Yautja"
+  },
+  {
+    "nome": "Professor X",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/527-professor-x.jpg",
+    "identidadeSecreta": "Charles Francis Xavier"
+  },
+  {
+    "nome": "Professor Zoom",
+    "poderes": "Speed, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/528-professor-zoom.jpg",
+    "identidadeSecreta": "Eobard Thawne"
+  },
+  {
+    "nome": "Psylocke",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/529-psylocke.jpg",
+    "identidadeSecreta": "Elizabeth Braddock"
+  },
+  {
+    "nome": "Punisher",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/530-punisher.jpg",
+    "identidadeSecreta": "Frank Castle"
+  },
+  {
+    "nome": "Purple Man",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/531-purple-man.jpg",
+    "identidadeSecreta": "Zebediah Killgrave"
+  },
+  {
+    "nome": "Pyro",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/532-pyro.jpg",
+    "identidadeSecreta": "St. John Allerdyce"
+  },
+  {
+    "nome": "Q",
+    "poderes": "Intelligence, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/533-q.jpg",
+    "identidadeSecreta": "Q"
+  },
+  {
+    "nome": "Question",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/535-question.jpg",
+    "identidadeSecreta": "Charles Victor Szasz"
+  },
+  {
+    "nome": "Quicksilver",
+    "poderes": "Speed, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/536-quicksilver.jpg",
+    "identidadeSecreta": "Pietro Django Maximoff"
+  },
+  {
+    "nome": "Quill",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/537-quill.jpg",
+    "identidadeSecreta": "Maxwell Jordan"
+  },
+  {
+    "nome": "Ra's Al Ghul",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/538-ras-al-ghul.jpg",
+    "identidadeSecreta": "Ra's Al Ghul"
+  },
+  {
+    "nome": "Rachel Pirzad",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/539-rachel-pirzad.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Rambo",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/540-rambo.jpg",
+    "identidadeSecreta": "John Rambo"
+  },
+  {
+    "nome": "Raphael",
+    "poderes": "Combat, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/541-raphael.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Raven",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/542-raven.jpg",
+    "identidadeSecreta": "Rachel Roth"
+  },
+  {
+    "nome": "Ray",
+    "poderes": "Durability, Power, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/543-ray.jpg",
+    "identidadeSecreta": "Ray Terrill"
+  },
+  {
+    "nome": "Red Arrow",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/545-red-arrow.jpg",
+    "identidadeSecreta": "Roy Harper"
+  },
+  {
+    "nome": "Red Hood",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/546-red-hood.jpg",
+    "identidadeSecreta": "Jason Todd"
+  },
+  {
+    "nome": "Red Hulk",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/547-red-hulk.jpg",
+    "identidadeSecreta": "Thaddeus E. Ross"
+  },
+  {
+    "nome": "Red Mist",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/548-red-mist.jpg",
+    "identidadeSecreta": "Chris Genovese"
+  },
+  {
+    "nome": "Red Robin",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/549-red-robin.jpg",
+    "identidadeSecreta": "Tim Drake"
+  },
+  {
+    "nome": "Red Skull",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/550-red-skull.jpg",
+    "identidadeSecreta": "Johann Shmidt"
+  },
+  {
+    "nome": "Red Tornado",
+    "poderes": "Power, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/551-red-tornado.jpg",
+    "identidadeSecreta": "John Smith"
+  },
+  {
+    "nome": "Rey",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/555-rey.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Rhino",
+    "poderes": "Durability, Combat, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/556-rhino.jpg",
+    "identidadeSecreta": "Aleksei Mikhailovich Sytsevich"
+  },
+  {
+    "nome": "Rick Flag",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/557-rick-flag.jpg",
+    "identidadeSecreta": "Richard Rogers Flag"
+  },
+  {
+    "nome": "Riddler",
+    "poderes": "Intelligence, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/558-riddler.jpg",
+    "identidadeSecreta": "Edward Nigma"
+  },
+  {
+    "nome": "Rip Hunter",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/559-rip-hunter.jpg",
+    "identidadeSecreta": "Richard Hunter"
+  },
+  {
+    "nome": "Robin",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/561-robin.jpg",
+    "identidadeSecreta": "Dick Grayson"
+  },
+  {
+    "nome": "Robin II",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/562-robin-ii.jpg",
+    "identidadeSecreta": "Jason Todd"
+  },
+  {
+    "nome": "Robin III",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/563-robin-iii.jpg",
+    "identidadeSecreta": "Tim Drake"
+  },
+  {
+    "nome": "Robin V",
+    "poderes": "Intelligence, Combat, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/564-robin-v.jpg",
+    "identidadeSecreta": "Damian Wayne"
+  },
+  {
+    "nome": "Robin VI",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/565-robin-vi.jpg",
+    "identidadeSecreta": "Carrie Kelley"
+  },
+  {
+    "nome": "Rocket Raccoon",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/566-rocket-raccoon.jpg",
+    "identidadeSecreta": "Rocket Raccoon"
+  },
+  {
+    "nome": "Rogue",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/567-rogue.jpg",
+    "identidadeSecreta": "Anna Marie"
+  },
+  {
+    "nome": "Ronin",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg",
+    "identidadeSecreta": "Clint Barton"
+  },
+  {
+    "nome": "Rorschach",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/569-rorschach.jpg",
+    "identidadeSecreta": "Walter Joseph Kovacs"
+  },
+  {
+    "nome": "Sabretooth",
+    "poderes": "Combat, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/570-sabretooth.jpg",
+    "identidadeSecreta": "Victor Creed"
+  },
+  {
+    "nome": "Sage",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/571-sage.jpg",
+    "identidadeSecreta": "Tessa"
+  },
+  {
+    "nome": "Sandman",
+    "poderes": "Power, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/572-sandman.jpg",
+    "identidadeSecreta": "William Baker"
+  },
+  {
+    "nome": "Sasquatch",
+    "poderes": "Strength, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/573-sasquatch.jpg",
+    "identidadeSecreta": "Walter Langkowski"
+  },
+  {
+    "nome": "Sauron",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/574-sauron.jpg",
+    "identidadeSecreta": "Sauron"
+  },
+  {
+    "nome": "Savage Dragon",
+    "poderes": "Durability, Combat, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/575-savage-dragon.jpg",
+    "identidadeSecreta": "Kurr"
+  },
+  {
+    "nome": "Scarecrow",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/576-scarecrow.jpg",
+    "identidadeSecreta": "Jonathan Crane"
+  },
+  {
+    "nome": "Scarlet Spider",
+    "poderes": "Intelligence, Durability, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/577-scarlet-spider.jpg",
+    "identidadeSecreta": "Benjamin Reilly"
+  },
+  {
+    "nome": "Scarlet Spider II",
+    "poderes": "Intelligence, Speed, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/578-scarlet-spider-ii.jpg",
+    "identidadeSecreta": "Kaine Parker"
+  },
+  {
+    "nome": "Scarlet Witch",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/579-scarlet-witch.jpg",
+    "identidadeSecreta": "Wanda Maximoff"
+  },
+  {
+    "nome": "Scorpia",
+    "poderes": "Speed, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/580-scorpia.jpg",
+    "identidadeSecreta": "Elaine Coll"
+  },
+  {
+    "nome": "Scorpion",
+    "poderes": "Durability, Combat, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/581-scorpion.jpg",
+    "identidadeSecreta": "MacDonald Gargan"
+  },
+  {
+    "nome": "Sebastian Shaw",
+    "poderes": "Durability, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/no-portrait.jpg",
+    "identidadeSecreta": "Sebastian Hiram Shaw"
+  },
+  {
+    "nome": "Sentry",
+    "poderes": "Strength, Speed, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/583-sentry.jpg",
+    "identidadeSecreta": "Robert Reynolds"
+  },
+  {
+    "nome": "Shadow King",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/584-shadow-king.jpg",
+    "identidadeSecreta": "Amahl Farouk"
+  },
+  {
+    "nome": "Shadow Lass",
+    "poderes": "Combat, Power, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/585-shadow-lass.jpg",
+    "identidadeSecreta": "Tasmia Mallor"
+  },
+  {
+    "nome": "Shadowcat",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/586-shadowcat.jpg",
+    "identidadeSecreta": "Kitty Pryde"
+  },
+  {
+    "nome": "Shang-Chi",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/587-shang-chi.jpg",
+    "identidadeSecreta": "Shang-Chi"
+  },
+  {
+    "nome": "Shatterstar",
+    "poderes": "Combat, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/588-shatterstar.jpg",
+    "identidadeSecreta": "Gaveedra Seven"
+  },
+  {
+    "nome": "She-Hulk",
+    "poderes": "Strength, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/589-she-hulk.jpg",
+    "identidadeSecreta": "Jennifer Walters"
+  },
+  {
+    "nome": "She-Thing",
+    "poderes": "Durability, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/590-she-thing.jpg",
+    "identidadeSecreta": "Sharon Ventura"
+  },
+  {
+    "nome": "Shocker",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/591-shocker.jpg",
+    "identidadeSecreta": "Herman Schultz"
+  },
+  {
+    "nome": "Shriek",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/592-shriek.jpg",
+    "identidadeSecreta": "Frances Louise Barrison"
+  },
+  {
+    "nome": "Sif",
+    "poderes": "Power, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/594-sif.jpg",
+    "identidadeSecreta": "Sif"
+  },
+  {
+    "nome": "Silk",
+    "poderes": "Intelligence, Speed, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/595-silk.jpg",
+    "identidadeSecreta": "Cindy Moon"
+  },
+  {
+    "nome": "Silver Surfer",
+    "poderes": "Strength, Speed, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/598-silver-surfer.jpg",
+    "identidadeSecreta": "Norrin Radd"
+  },
+  {
+    "nome": "Silverclaw",
+    "poderes": "Intelligence, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/599-silverclaw.jpg",
+    "identidadeSecreta": "Maria de Guadalupe Santiago"
+  },
+  {
+    "nome": "Simon Baz",
+    "poderes": "Power, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/600-simon-baz.jpg",
+    "identidadeSecreta": "Simoon Baz"
+  },
+  {
+    "nome": "Sinestro",
+    "poderes": "Power, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/601-sinestro.jpg",
+    "identidadeSecreta": "Thaal Sinestro"
+  },
+  {
+    "nome": "Siren",
+    "poderes": "Power, Speed, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/602-siren.jpg",
+    "identidadeSecreta": "Hila"
+  },
+  {
+    "nome": "Siryn",
+    "poderes": "Power, Speed, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/604-siryn.jpg",
+    "identidadeSecreta": "Theresa Rourke Cassidy"
+  },
+  {
+    "nome": "Skaar",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/605-skaar.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Snowbird",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/607-snowbird.jpg",
+    "identidadeSecreta": "Narya"
+  },
+  {
+    "nome": "Sobek",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/608-sobek.jpg",
+    "identidadeSecreta": "Yurrd the Unknown"
+  },
+  {
+    "nome": "Solomon Grundy",
+    "poderes": "Durability, Strength, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/609-solomon-grundy.jpg",
+    "identidadeSecreta": "Cyrus Gold"
+  },
+  {
+    "nome": "Songbird",
+    "poderes": "Intelligence, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/610-songbird.jpg",
+    "identidadeSecreta": "Melissa Joan Gold"
+  },
+  {
+    "nome": "Space Ghost",
+    "poderes": "Power, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/611-space-ghost.jpg",
+    "identidadeSecreta": "Thaddeus Bach"
+  },
+  {
+    "nome": "Spawn",
+    "poderes": "Power, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/612-spawn.jpg",
+    "identidadeSecreta": "Al Simmons"
+  },
+  {
+    "nome": "Spectre",
+    "poderes": "Strength, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/613-spectre.jpg",
+    "identidadeSecreta": "Aztar"
+  },
+  {
+    "nome": "Speedy",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/615-speedy.jpg",
+    "identidadeSecreta": "Thea Queen"
+  },
+  {
+    "nome": "Spider-Girl",
+    "poderes": "Combat, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/618-spider-girl.jpg",
+    "identidadeSecreta": "May 'Mayday' Parker"
+  },
+  {
+    "nome": "Spider-Gwen",
+    "poderes": "Intelligence, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/619-spider-gwen.jpg",
+    "identidadeSecreta": "Gwen Stacy"
+  },
+  {
+    "nome": "Spider-Man",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/620-spider-man.jpg",
+    "identidadeSecreta": "Peter Parker"
+  },
+  {
+    "nome": "Spider-Woman",
+    "poderes": "Combat, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/623-spider-woman.jpg",
+    "identidadeSecreta": "Jessica Drew"
+  },
+  {
+    "nome": "Spider-Woman III",
+    "poderes": "Power, Intelligence, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/625-spider-woman-iii.jpg",
+    "identidadeSecreta": "Martha Franklin"
+  },
+  {
+    "nome": "Spock",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/627-spock.jpg",
+    "identidadeSecreta": "S'chn T'gai Spock"
+  },
+  {
+    "nome": "Spyke",
+    "poderes": "Durability, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/628-spyke.jpg",
+    "identidadeSecreta": "Evan Daniels"
+  },
+  {
+    "nome": "Star-Lord",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/630-star-lord.jpg",
+    "identidadeSecreta": "Peter Jason Quill"
+  },
+  {
+    "nome": "Stardust",
+    "poderes": "Durability, Speed, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/631-stardust.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Starfire",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/632-starfire.jpg",
+    "identidadeSecreta": "Koriand'r"
+  },
+  {
+    "nome": "Stargirl",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/633-stargirl.jpg",
+    "identidadeSecreta": "Courtney Whitmore"
+  },
+  {
+    "nome": "Static",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/634-static.jpg",
+    "identidadeSecreta": "Virgil Hawkins"
+  },
+  {
+    "nome": "Steel",
+    "poderes": "Durability, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/635-steel.jpg",
+    "identidadeSecreta": "John Henry Irons"
+  },
+  {
+    "nome": "Stephanie Powell",
+    "poderes": "Intelligence, Speed, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/636-stephanie-powell.jpg",
+    "identidadeSecreta": "Stephanie Powell"
+  },
+  {
+    "nome": "Steppenwolf",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/637-steppenwolf.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Storm",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/638-storm.jpg",
+    "identidadeSecreta": "Ororo Munroe"
+  },
+  {
+    "nome": "Stormtrooper",
+    "poderes": "Combat, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/639-stormtrooper.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Sunspot",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/640-sunspot.jpg",
+    "identidadeSecreta": "Roberto DaCosta"
+  },
+  {
+    "nome": "Superboy",
+    "poderes": "Strength, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/641-superboy.jpg",
+    "identidadeSecreta": "Kon-El / Conner Kent"
+  },
+  {
+    "nome": "Superboy-Prime",
+    "poderes": "Strength, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/642-superboy-prime.jpg",
+    "identidadeSecreta": "Kal-El"
+  },
+  {
+    "nome": "Supergirl",
+    "poderes": "Strength, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/643-supergirl.jpg",
+    "identidadeSecreta": "Kara Zor-El"
+  },
+  {
+    "nome": "Superman",
+    "poderes": "Strength, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/644-superman.jpg",
+    "identidadeSecreta": "Clark Kent"
+  },
+  {
+    "nome": "Swamp Thing",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/645-swamp-thing.jpg",
+    "identidadeSecreta": "Alec Holland"
+  },
+  {
+    "nome": "Swarm",
+    "poderes": "Durability, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/646-swarm.jpg",
+    "identidadeSecreta": "Fritz von Meyer"
+  },
+  {
+    "nome": "Sylar",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/647-sylar.jpg",
+    "identidadeSecreta": "Gabriel Gray"
+  },
+  {
+    "nome": "Synch",
+    "poderes": "Intelligence, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/648-synch.jpg",
+    "identidadeSecreta": "Everett Thomas"
+  },
+  {
+    "nome": "T-1000",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/649-t-1000.jpg",
+    "identidadeSecreta": "Cyberdyne Systems Series 1000 Terminator"
+  },
+  {
+    "nome": "T-800",
+    "poderes": "Intelligence, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/650-t-800.jpg",
+    "identidadeSecreta": "Cyberdyne Systems Series 800 Terminator Model 101"
+  },
+  {
+    "nome": "T-850",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/651-t-850.jpg",
+    "identidadeSecreta": "Cyberdyne Systems Series 850 Terminator"
+  },
+  {
+    "nome": "T-X",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/652-t-x.jpg",
+    "identidadeSecreta": "Cyberdyne Systems Series X Terminator"
+  },
+  {
+    "nome": "Taskmaster",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/653-taskmaster.jpg",
+    "identidadeSecreta": "Tony Masters"
+  },
+  {
+    "nome": "Tempest",
+    "poderes": "Power, Combat, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/654-tempest.jpg",
+    "identidadeSecreta": "Angel Salvadore Bohusk"
+  },
+  {
+    "nome": "Thanos",
+    "poderes": "Intelligence, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/655-thanos.jpg",
+    "identidadeSecreta": "Thanos"
+  },
+  {
+    "nome": "The Cape",
+    "poderes": "Combat, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/656-the-cape.jpg",
+    "identidadeSecreta": "Vince Faraday"
+  },
+  {
+    "nome": "The Comedian",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/657-the-comedian.jpg",
+    "identidadeSecreta": "Edward Morgen Blake"
+  },
+  {
+    "nome": "Thing",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/658-thing.jpg",
+    "identidadeSecreta": "Ben Grimm"
+  },
+  {
+    "nome": "Thor",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/659-thor.jpg",
+    "identidadeSecreta": "Thor Odinson"
+  },
+  {
+    "nome": "Thor Girl",
+    "poderes": "Power, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/660-thor-girl.jpg",
+    "identidadeSecreta": "Tarene"
+  },
+  {
+    "nome": "Thunderbird",
+    "poderes": "Combat, Intelligence, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/661-thunderbird.jpg",
+    "identidadeSecreta": "John Proudstar"
+  },
+  {
+    "nome": "Thunderstrike",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/664-thunderstrike.jpg",
+    "identidadeSecreta": "Eric Kevin Masterson"
+  },
+  {
+    "nome": "Thundra",
+    "poderes": "Strength, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/665-thundra.jpg",
+    "identidadeSecreta": "Thundra"
+  },
+  {
+    "nome": "Tiger Shark",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/666-tiger-shark.jpg",
+    "identidadeSecreta": "Todd Arliss"
+  },
+  {
+    "nome": "Tigra",
+    "poderes": "Combat, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/667-tigra.jpg",
+    "identidadeSecreta": "Greer Grant Nelson"
+  },
+  {
+    "nome": "Tinkerer",
+    "poderes": "Intelligence, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/668-tinkerer.jpg",
+    "identidadeSecreta": "Phineas Mason"
+  },
+  {
+    "nome": "Toad",
+    "poderes": "Power, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/670-toad.jpg",
+    "identidadeSecreta": "Mortimer Toynbee"
+  },
+  {
+    "nome": "Toxin",
+    "poderes": "Durability, Power, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/671-toxin.jpg",
+    "identidadeSecreta": "Patrick Mulligan"
+  },
+  {
+    "nome": "Toxin",
+    "poderes": "Power, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/672-toxin.jpg",
+    "identidadeSecreta": "Eddie Brock"
+  },
+  {
+    "nome": "Triplicate Girl",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/676-triplicate-girl.jpg",
+    "identidadeSecreta": "Luornu Durgo"
+  },
+  {
+    "nome": "Triton",
+    "poderes": "Durability, Strength, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/677-triton.jpg",
+    "identidadeSecreta": "Triton"
+  },
+  {
+    "nome": "Two-Face",
+    "poderes": "Intelligence, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/678-two-face.jpg",
+    "identidadeSecreta": "Harvey Dent"
+  },
+  {
+    "nome": "Ultragirl",
+    "poderes": "Strength, Combat, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/679-ultragirl.jpg",
+    "identidadeSecreta": "Tsu-Zana"
+  },
+  {
+    "nome": "Ultron",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/680-ultron.jpg",
+    "identidadeSecreta": "Ultron"
+  },
+  {
+    "nome": "Utgard-Loki",
+    "poderes": "Power, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/681-utgard-loki.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Vanisher",
+    "poderes": "Speed, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/685-vanisher.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Vegeta",
+    "poderes": "Strength, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/686-vegeta.jpg",
+    "identidadeSecreta": "Vegeta"
+  },
+  {
+    "nome": "Venom",
+    "poderes": "Power, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/687-venom.jpg",
+    "identidadeSecreta": "Eddie Brock"
+  },
+  {
+    "nome": "Venom II",
+    "poderes": "Durability, Strength, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/688-venom-ii.jpg",
+    "identidadeSecreta": "Angelo Fortunato"
+  },
+  {
+    "nome": "Venom III",
+    "poderes": "Durability, Strength, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/689-venom-iii.jpg",
+    "identidadeSecreta": "MacDonald Gargan"
+  },
+  {
+    "nome": "Venompool",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/690-venompool.jpg",
+    "identidadeSecreta": "Wade Wilson"
+  },
+  {
+    "nome": "Vibe",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/692-vibe.jpg",
+    "identidadeSecreta": "Cisco Ramon"
+  },
+  {
+    "nome": "Vindicator",
+    "poderes": "Combat, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/693-vindicator.jpg",
+    "identidadeSecreta": "Heather Hudson"
+  },
+  {
+    "nome": "Violet Parr",
+    "poderes": "Power, Intelligence, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/696-violet-parr.jpg",
+    "identidadeSecreta": "Violet Parr"
+  },
+  {
+    "nome": "Vision",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/697-vision.jpg",
+    "identidadeSecreta": "Vision"
+  },
+  {
+    "nome": "Vixen",
+    "poderes": "Power, Intelligence, Speed",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/699-vixen.jpg",
+    "identidadeSecreta": "Mari McCabe"
+  },
+  {
+    "nome": "Vulture",
+    "poderes": "Intelligence, Speed, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/701-vulture.jpg",
+    "identidadeSecreta": "Adrian Toomes"
+  },
+  {
+    "nome": "Walrus",
+    "poderes": "Intelligence, Durability, Strength",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/702-walrus.jpg",
+    "identidadeSecreta": "Hubert Carpent"
+  },
+  {
+    "nome": "War Machine",
+    "poderes": "Durability, Power, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/703-war-machine.jpg",
+    "identidadeSecreta": "James Rupert Rhodes"
+  },
+  {
+    "nome": "Warlock",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/705-warlock.jpg",
+    "identidadeSecreta": "Adam Warlock"
+  },
+  {
+    "nome": "Warp",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/706-warp.jpg",
+    "identidadeSecreta": "Emil LaSalle"
+  },
+  {
+    "nome": "Warpath",
+    "poderes": "Combat, Strength, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/707-warpath.jpg",
+    "identidadeSecreta": "James Proudstar"
+  },
+  {
+    "nome": "Wasp",
+    "poderes": "Intelligence, Speed, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/708-wasp.jpg",
+    "identidadeSecreta": "Janet Van Dyne"
+  },
+  {
+    "nome": "Watcher",
+    "poderes": "Intelligence, Power, Durability",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/709-watcher.jpg",
+    "identidadeSecreta": "Uatu"
+  },
+  {
+    "nome": "White Canary",
+    "poderes": "Combat, Intelligence, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/711-white-canary.jpg",
+    "identidadeSecreta": ""
+  },
+  {
+    "nome": "Wildfire",
+    "poderes": "Durability, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/713-wildfire.jpg",
+    "identidadeSecreta": "Drake Burroughs"
+  },
+  {
+    "nome": "Winter Soldier",
+    "poderes": "Combat, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/714-winter-soldier.jpg",
+    "identidadeSecreta": "Bucky Barnes"
+  },
+  {
+    "nome": "Wolfsbane",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/716-wolfsbane.jpg",
+    "identidadeSecreta": "Rahne Sinclair"
+  },
+  {
+    "nome": "Wolverine",
+    "poderes": "Durability, Combat, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/717-wolverine.jpg",
+    "identidadeSecreta": "Logan"
+  },
+  {
+    "nome": "Wonder Girl",
+    "poderes": "Strength, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/718-wonder-girl.jpg",
+    "identidadeSecreta": "Cassandra Elizabeth Sandsmark"
+  },
+  {
+    "nome": "Wonder Man",
+    "poderes": "Strength, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/719-wonder-man.jpg",
+    "identidadeSecreta": "Simon Williams"
+  },
+  {
+    "nome": "Wonder Woman",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/720-wonder-woman.jpg",
+    "identidadeSecreta": "Diana Prince"
+  },
+  {
+    "nome": "Wyatt Wingfoot",
+    "poderes": "Combat, Speed, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/722-wyatt-wingfoot.jpg",
+    "identidadeSecreta": "Wyatt Wingfoot"
+  },
+  {
+    "nome": "X-23",
+    "poderes": "Durability, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/723-x-23.jpg",
+    "identidadeSecreta": "Laura Kinney"
+  },
+  {
+    "nome": "X-Man",
+    "poderes": "Power, Durability, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/724-x-man.jpg",
+    "identidadeSecreta": "Nate Grey"
+  },
+  {
+    "nome": "Yellowjacket",
+    "poderes": "Intelligence, Durability, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/726-yellowjacket.jpg",
+    "identidadeSecreta": "Hank Pym"
+  },
+  {
+    "nome": "Yellowjacket II",
+    "poderes": "Intelligence, Speed, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/727-yellowjacket-ii.jpg",
+    "identidadeSecreta": "Rita DeMara"
+  },
+  {
+    "nome": "Ymir",
+    "poderes": "Strength, Durability, Power",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/728-ymir.jpg",
+    "identidadeSecreta": "Ymir"
+  },
+  {
+    "nome": "Yoda",
+    "poderes": "Power, Combat, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/729-yoda.jpg",
+    "identidadeSecreta": "Yoda"
+  },
+  {
+    "nome": "Zatanna",
+    "poderes": "Power, Intelligence, Combat",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/730-zatanna.jpg",
+    "identidadeSecreta": "Zatanna Zatara"
+  },
+  {
+    "nome": "Zoom",
+    "poderes": "Speed, Power, Intelligence",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/731-zoom.jpg",
+    "identidadeSecreta": "Hunter Zolomon"
+  }
+]
